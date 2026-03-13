@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
-<p align="center">[nama] - [NIM]</p>
+<p align="center">[Nur Fitri Rachmadilla Dewanti] - [109082500057]</p>
 
 ## Unguided 
 
@@ -8,16 +8,30 @@
 
 ```go
 package main
-
 import "fmt"
-
 func main() {
-	fmt.Println("Hello World!")
+	var (
+		satu, dua, tiga string
+		temp string
+	)
+
+	fmt.Print("Masukan input string: ")
+	fmt.Scanln(&satu)
+	fmt.Print("Masukan input string: ")
+	fmt.Scanln(&dua)
+	fmt.Print("Masukan input string: ")
+	fmt.Scanln(&tiga)
+	fmt.Println("Output awal = " + satu + " " + dua + " " + tiga)
+	temp = satu
+	satu = dua
+	dua = tiga
+	tiga = temp
+	fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
 ```
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_Nur-Fitri-Rachmadilla-Dewanti/blob/main/modul1/output/output_soal1.png)
 [penjelasan]
 
