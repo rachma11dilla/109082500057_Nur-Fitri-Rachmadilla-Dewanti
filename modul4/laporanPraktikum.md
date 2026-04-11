@@ -112,7 +112,7 @@ func main() {
 [Program ini digunakan untuk menentukan pemenang dalam kompetisi pemrograman dengan melihat jumlah soal yang berhasil diselesaikan dan total waktu pengerjaan. Setiap peserta memiliki nama serta delapan data waktu untuk setiap soal. Jika waktu pengerjaan kurang dari 301 menit, maka soal dianggap berhasil dan waktunya akan dijumlahkan, sedangkan jika 301 menit atau lebih maka dianggap tidak selesai. Program menggunakan prosedur hitungskor untuk menghitung jumlah soal yang berhasil diselesaikan dan total waktunya. Di bagian utama, data peserta dibaca satu per satu hingga ditemukan input “Selesai”, kemudian setiap peserta dibandingkan untuk menentukan pemenang, yaitu yang menyelesaikan soal paling banyak, dan jika jumlahnya sama maka dipilih yang memiliki total waktu paling kecil. Pada akhirnya, program menampilkan nama pemenang beserta jumlah soal yang diselesaikan dan total waktu yang diperoleh.]
 
 
-## Unguided 
+## Unguided  
 
 ### 3. [Soal]
 #### soal3.go
