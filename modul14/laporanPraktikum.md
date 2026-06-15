@@ -56,7 +56,7 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_Nur-Fitri-Rachmadilla-Dewanti/blob/main/modul14/output/selection_sort_soal1.png)
-[Program ini digunakan untuk mengurutkan nomor rumah kerabat Hercules disetiap daerah dari yang terkecil hingga terbesar. Input berupa jumlah daerah, kemudian memasukkan jumlah rumah kerabat dan nomor rumah pada masing-masing daerah. Setelah semua data diterima, program akan mengurutkan nomor rumah menggunakan algoritma Selection Sort dengan cara mencari nomor rumah terkecil dan menempatkannya pada posisi yang sesuai secara berulang hingga seluruh data urut. Output berupa daftar nomor rumah yang tersusun secara menaik pada setiap daerah sehingga lebih mudah dibaca dan digunakan untuk menentukan jumlah urutan kunjungan ke rumah para kerabat.]
+[Program ini digunakan untuk mengurutkan nomor rumah kerabat Hercules disetiap daerah dari yang terkecil hingga terbesar. Input berupa jumlah daerah, kemudian memasukkan jumlah rumah kerabat dan nomor rumah pada masing-masing daerah. Setelah semua data diterima, program akan mengurutkan nomor rumah menggunakan Selection Sort dengan cara mencari nomor rumah terkecil dan menempatkannya pada posisi yang sesuai secara berulang hingga seluruh data urut. Output berupa daftar nomor rumah yang tersusun secara menaik pada setiap daerah sehingga lebih mudah dibaca dan digunakan untuk menentukan jumlah urutan kunjungan ke rumah para kerabat.]
 
 
 
